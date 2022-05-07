@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">User Input</string>
+    <string name="nganh1">Khoa học máy tính</string>
+    <string name="nganh2">Kỹ thuật máy tính</string>
+    <string name="nnltC">C</string>
+    <string name="nnltJava">Java</string>
+    <string name="nnltPython">Python</string>
+    <string name="role_accept">Đồng ý với điều khoản dịch vụ</string>
+</resources>
